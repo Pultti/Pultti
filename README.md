@@ -3,11 +3,13 @@
 
 ---
 
-- 🔭 I’m currently working on React mobile app
+- 🔭 Current position - Full-stack developer
+<!--
 - 🌱 I’m currently learning full-stack developing
 - 👯 I’m looking to collaborate on projects that utilizes AI
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about travelling ideas
+-->
 - 📫 How to reach me: Message me in LinkedIn
 
 - ⚡ Fun fact: I'm afraid of heights

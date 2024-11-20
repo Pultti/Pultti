@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Current position - Full-stack developer
+- 🔭 Looking for Full-stack developer position
 <!--
 - 🌱 I’m currently learning full-stack developing
 - 👯 I’m looking to collaborate on projects that utilizes AI
